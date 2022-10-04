@@ -1,7 +1,7 @@
 # YouTube-Comments-Classification
 **This project was made as our final year project group members being me and https://github.com/abulaalafareh**
 
-Introduction:
+## Introduction:
 This project is youtube comment classification. In this project we scrape and classify youtube comments into different categories based on their sentiments total sentiments being 16. We decided to get of the bubble of only positive, negative and neutral Sentiment and decided to increase the horizons for sentiment analysis. This can help YouTubers get insights into viewers perception, leading to informed decisions on how to improve viewer experience.
 
 ## Categories:
