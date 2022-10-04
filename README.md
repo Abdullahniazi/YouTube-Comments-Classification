@@ -23,7 +23,7 @@ This project is youtube comment classification. In this project we scrape and cl
   * Positive
   * Negative
 
-## Working: steps:
+## Working steps:
 
   * Scrape YouTube Save them to database
   * Perform Sentiment Analysis on each comment and save to database
